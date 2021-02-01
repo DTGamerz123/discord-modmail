@@ -1,10 +1,10 @@
 {
-	"guild": "Your support server ID goes here",
-	"log": "Your modmail log channel ID",
+	"guild": "799232711067697182",
+	"log": "805800672032194581",
 	"prefix": "!",
 	"roles": {
-		"bot": "Your bot role ID",
-		"mod": "Your moderator/support team role ID"
+		"bot": "805801113118965761",
+		"mod": "805802387032768532D"
 	},
-	"ticketCategory": "Your support server's TICKET category ID"
+	"ticketCategory": "799593518829797396"
 }
